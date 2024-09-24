@@ -272,6 +272,11 @@ body {
   text-align: center;
 }
 
+.step_last .step__body {
+  padding-top: 60px;
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
 .step__body {
   padding-bottom: 60px;
 }
